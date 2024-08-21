@@ -94,13 +94,29 @@ print('RMSE = ',rmse)
 
 ## Output:
 ![alt text](1.png)
+
+
 ![alt text](2.png)
+
+
 ![alt text](3.png)
+
+
 ![alt text](4.png)
+
+
 ![alt text](5.png)
+
+
 ![alt text](6.png)
+
+
 ![alt text](9.png)
+
+
 ![alt text](<download (8).png>)
+
+
 ![alt text](<download (7)-1.png>)
 
 # Result:
